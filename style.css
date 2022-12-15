@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient( black, brown);
+}
+.img-1 { float: left;
+    width: 40%;
+    height: 10%; 
+    padding-block: 30px;
+}
+header {display:inline-block}
+.p-1 {
+    display: flex;
+    text-align: center;
+    padding-left: 10px;
+    justify-content: center;
+    font-weight: 300;
+    color: beige;
+    line-height: 2;
+    padding-top: 100px;
+    padding: auto;
+}
+button {
+    box-sizing: 400px;
+    padding-left: 40px;
+    text-align: center;
+    background-color: transparent;
+    border-color: black;
+    font-size: larger;
+    cursor: pointer;
+    color:rgb(125, 96, 118)
+}  
+section {
+    display: inline-block;
+}
+#image {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color:rgb(211, 188, 188);
+}
+.section2 {
+    width: 400px;
+    align-content: center
+}
+
+footer {
+   
+    bottom: 0px;
+    width: 100%;
+    padding: top;
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
